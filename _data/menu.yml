@@ -6,7 +6,7 @@ entries:
     entries:
       - title: my blog
       - title: github repo
-        url: https://github.com/netlol/leetcode
+        url: https://github.com/netlol/
 
   - title: 文件
     post_list:
