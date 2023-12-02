@@ -3,8 +3,7 @@ title: 第3篇
 date: 2023-11-18 08:29:00 +0800
 ---
 
-
-# 第 3-1 篇
+## 第 3-1 篇
 
 ![img-description](images/01.png)
 
@@ -18,6 +17,8 @@ date: 2023-11-18 08:29:00 +0800
 
 ![use this templete](https://user-images.githubusercontent.com/33304953/283978953-e6561a3c-62c8-4e68-881d-c4da6ab059ae.png)
 
+## 第 3-1 篇
+
 設定完成後，會建立一個   `你的github id.guthub.io`    的 repo
 
 然後到   `你的github id.guthub.io`    repo 點選 `setting`
@@ -30,6 +31,8 @@ date: 2023-11-18 08:29:00 +0800
 
 再編輯`_config.yml`，在 `url:` 輸入你的 GitPages url ，然後 commit & push.
 ![j07](https://user-images.githubusercontent.com/33304953/283980333-119b844c-3dce-4128-a4fb-f1348e75d37b.png)
+
+## 第 3-1 篇
 
 瀏覽你的 GithubPage
 
