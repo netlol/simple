@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 第3篇
 date: 2023-11-18 08:29:00 +0800
 ---
