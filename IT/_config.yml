@@ -2,11 +2,11 @@ title: Blog
 description: [這裡是描述]
 #remote_theme: pages-themes/tactile@v0.2.0
 #remote_theme: pages-themes/Cayman@v0.2.0
-remote_theme: pages-themes/Hacker@v0.2.0
+#remote_theme: pages-themes/Hacker@v0.2.0
 #remote_theme: pages-themes/leap-day@v0.2.0
 #remote_theme: pages-themes/Merlot@v0.2.0
 #remote_theme: pages-themes/Midnight@v0.2.0
-#remote_theme: pages-themes/Minima@v0.2.0
+remote_theme: pages-themes/Minima@v0.2.0
 #remote_theme: pages-themes/Modernist@v0.2.0
 #remote_theme: pages-themes/Slate@v0.2.0
 #remote_theme: pages-themes/Minimal@v0.2.0
