@@ -1,18 +1,3 @@
-<!-- COMMENTS
----
-layout: post
-title: jekyll-theme
-date: 2023-11-18 08:29:00 +0800
----
-
-
----
-layout: post
-title: 第3篇
-date: 2023-11-18 08:29:00 +0800
----
--->
-
 # 第 2 篇
 
 ![img-description](/images/01.png)
