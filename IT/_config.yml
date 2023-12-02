@@ -4,10 +4,10 @@ description: [IT文件]
 #remote_theme: pages-themes/Cayman
 #remote_theme: pages-themes/Hacker
 #remote_theme: pages-themes/leap-day
-#remote_theme: pages-themes/merlot
+remote_theme: pages-themes/merlot
 #remote_theme: pages-themes/midnight
 #remote_theme: pages-themes/minima
-remote_theme: pages-themes/modernist
+#remote_theme: pages-themes/modernist
 #remote_theme: pages-themes/slate
 #remote_theme: pages-themes/minimal
 #remote_theme: pages-themes/time-machine
