@@ -1,4 +1,5 @@
 title: Blog
 description: [這裡是描述]
 #remote_theme: pages-themes/tactile@v0.2.0
-remote_theme: pages-themes/Cayman@v0.2.0
+#remote_theme: pages-themes/Cayman@v0.2.0
+remote_theme: cotes2020/jekyll-theme-chirpy
