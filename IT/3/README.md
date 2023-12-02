@@ -1,7 +1,3 @@
-
-<!-- COMMENTS
--->
-
 # 第 3-1 篇
 
 ![img-description](images/01.png)
