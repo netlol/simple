@@ -1,7 +1,13 @@
+---
+layout: post
+title: 第3篇
+date: 2023-11-18 08:29:00 +0800
+---
+
 <!-- COMMENTS
 -->
 
-# 第 3 篇
+# 第 3-1 篇
 
 ![img-description](images/01.png)
 
